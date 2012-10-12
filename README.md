@@ -10,7 +10,7 @@ by the tags in a (possibly anonymous) struct.
 package main
 
 import (
-	"github.com/voxelbrain/goptions"
+	"github.com/sbinet/goptions"
 	"os"
 )
 
